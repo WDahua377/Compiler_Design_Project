@@ -30,6 +30,7 @@ make clean
 ```
 
 ### 執行
+要測試其他檔案，替換其中的 sample1.c 為要測試的 C 檔案。
 ```bash
 java -cp antlr-3.5.2-complete-no-st3.jar:. testLexer sample1.c
 ```
