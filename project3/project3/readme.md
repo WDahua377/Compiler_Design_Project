@@ -9,11 +9,10 @@ sudo apt-get install make
 使用 ANTLR 版本 3.5.2：<a href = https://www.antlr3.org>ANTLR 3 官網</a> 下載，將 jar 檔案放在專案根目錄下。
 <br/>
 <br/>   <!-- 空行 -->
-<li>安裝OpenJDK</li>
+<li>安裝 OpenJDK：</li>
 
 ```bash
-sudo -s
-apt-get install openjdk-11-jdk
+sudo apt-get install openjdk-11-jdk
 ```
 
 ### 編譯
